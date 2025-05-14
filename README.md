@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **shaikraiyan2005@gmail.com**
 
+<img align="right" height="300" src="images/Coding Work From Home GIF by Domme Space.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaik-raiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-raiyan" height="30" width="50" /></a> <a href="https://github.com/SHAIK-RAIYAN" target="blank"><img align="center" src="https://camo.githubusercontent.com/cc621e872e3eb80326ab0eb60a04af699aa022df365f28ea2dbb490c1e7ae788/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d69636f6e2e737667" alt="shaik-raiyan" height="50" width="50" /></a>
@@ -25,4 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAIK-RAIYAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
