@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hi 👋, I'm SHAIK RAIYAN</h1>
+<h1 align="center">Hi 👋, I'm Shaik Raiyan</h1>
 <h3 align="center">Hey there! I'm SHAIK RAIAN a B.Tech Computer Science grad and a Full-Stack Developer from India. I’m passionate about coding and building cool projects! 🚀</h3>
 
 
