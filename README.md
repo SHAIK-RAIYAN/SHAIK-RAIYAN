@@ -26,4 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAIK-RAIYAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+---
 
+<h3 align="center">✨ Let’s Build Something Great Together!</h3>
+<p align="center">
+  “Connecting ideas with code to build meaningful impact.” 🚀<br>
+  <strong>Thanks for visiting! Let’s connect & collaborate!</strong>
+</p>
