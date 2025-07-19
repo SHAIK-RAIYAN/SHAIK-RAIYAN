@@ -1,5 +1,7 @@
 # Hi 👋, I'm Shaik Raiyan
 
+<hr>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=55F524&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
@@ -39,13 +41,13 @@
 
 ## 👥 Profile Views
 
-<p align="center">
+<p align="left">
   <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN" alt="Visitor Count" />
 </p>
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/shaik-raiyan" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
