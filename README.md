@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hi 👋, I'm Shaik Raiyan</h1>
-<h3 align="center">Hey there! I'm SHAIK RAIAN a B.Tech Computer Science grad and a Full-Stack Developer from India. I’m passionate about coding and building cool projects! 🚀</h3>
+<h3 align="center">Hey there! I'm SHAIK RAIYAN a B.Tech Computer Science grad and a Full-Stack Developer from India. I’m passionate about coding and building cool projects! 🚀</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHAIK-RAIYAN](https://github.com/SHAIK-RAIYAN?tab=repositories)
