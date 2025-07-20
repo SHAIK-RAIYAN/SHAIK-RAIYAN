@@ -35,14 +35,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAIK-RAIYAN&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK-RAIYAN&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAIK-RAIYAN&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK-RAIYAN&theme=dark" alt="GitHub streak" />
 </p>
 
 ## 👥 Profile Views
 
 <p align="left">
-  <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN" alt="Visitor Count" />
+  <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN&c=ffffff" alt="Visitor Count" />
 </p>
 
 ## 📫 Connect with Me
