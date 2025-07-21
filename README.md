@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAIK-RAIYAN&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK%20%20RAIYAN&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK-RAIYAN&theme=dark" />
 </p>
 
 ## 👥 Profile Views
