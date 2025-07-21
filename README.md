@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=2500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,13 +36,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAIK-RAIYAN&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK-RAIYAN&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK%20%20RAIYAN&theme=dark" />
 </p>
 
 ## 👥 Profile Views
 
 <p align="left">
-  <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN&c=ffffff" alt="Visitor Count" />
+  <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN&c=0096FF" alt="Visitor Count" />
 </p>
 
 ## 📫 Connect with Me
