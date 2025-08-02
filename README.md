@@ -60,5 +60,5 @@
 
 <p align="center">
   <em>"Connecting ideas with code to create meaningful impact."</em><br>
-  Thanks for visiting my profile! I'm always excited to collaborate on innovative projects or discuss new ideas. Reach out, and let's build something amazing together!
+  Thanks for visiting my profile! I'm always excited to collaborate on innovative projects or discuss new ideas. Reach out, and let's build something amazing!
 </p>
