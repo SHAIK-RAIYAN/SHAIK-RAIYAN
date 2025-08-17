@@ -39,11 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK-RAIYAN&theme=dark" />
 </p>
 
-## 👥 Profile Views
-
-<p align="left">
-  <img src="https://visit-counter.vercel.app/counter.png?name=SHAIK-RAIYAN&c=0096FF" alt="Visitor Count" />
-</p>
 
 ## 📫 Connect with Me
 
