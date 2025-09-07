@@ -30,7 +30,7 @@
 ## 🚀 Featured Projects
 
 - **[WanderNest](https://github.com/SHAIK-RAIYAN/WanderNest)**: A full-stack property listing platform connecting travelers with trusted hosts across India. Built with Node.js, Express, MongoDB, and Bootstrap, it features secure authentication, geolocation, and image uploads via Cloudinary.
-- **[Portfolio Website](https://github.com/SHAIK-RAIYAN/Portfolio)**: A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript for a responsive and modern design.
+- **[Portfolio Website](https://shaik-raiyan.vercel.app/)**: A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript for a responsive and modern design.
 
 ## 📊 GitHub Stats
 
