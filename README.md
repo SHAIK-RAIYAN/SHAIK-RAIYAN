@@ -1,10 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Shaik Raiyan</h2> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi%20👋,%20I'm%20Shaik%20Raiyan&reversal=false&textBg=false&fontSize=40&desc=B.Tech%20CSE%20|%20Full-Stack%20Developer%20|%20India&descAlignY=70" alt="Header Gradient" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi%20👋,%20I'm%20Shaik%20Raiyan&reversal=false&textBg=false&fontSize=30&desc=B.Tech%20CSE%20|%20Full-Stack%20Developer%20|%20India&descAlignY=70" alt="Header Gradient" width="100%"/>
 </div>
 
-<hr>
+<!-- <hr> -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=2500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
