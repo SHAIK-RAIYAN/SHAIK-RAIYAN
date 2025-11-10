@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shaik Raiyan</h2>
+<!-- <h1 align="center">Hi 👋, I'm Shaik Raiyan</h2> -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi%20👋,%20I'm%20Shaik%20Raiyan&reversal=false&textBg=false&fontSize=40&desc=B.Tech%20CSE%20|%20Full-Stack%20Developer%20|%20India&descAlignY=70" alt="Header Gradient" width="100%"/>
+</div>
 
 <hr>
 
@@ -6,9 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=2500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <em>B.Tech Computer Science Graduate | Full-Stack Developer | India.</em>
-</p>
+<!-- <p align="center">
+  <em>B.Tech CSE | Full-Stack Developer | India.</em>
+</p> -->
 
 <p align="center">
   I'm a passionate coder from India, dedicated to crafting innovative web applications. Currently, I'm diving deeper into full-stack development and exploring cloud technologies to build scalable solutions. My goal is to create impactful projects that connect people and solve real-world problems.
@@ -49,4 +53,3 @@
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHAIK-RAIYAN&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
