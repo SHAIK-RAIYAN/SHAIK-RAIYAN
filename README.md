@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shaik Raiyan
+<h1 align="center">Hi 👋, I'm Shaik Raiyan</h2>
 
 <hr>
 
