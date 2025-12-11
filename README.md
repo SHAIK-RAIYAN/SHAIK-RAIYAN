@@ -33,7 +33,7 @@
 
 - **[WanderNest](https://github.com/SHAIK-RAIYAN/WanderNest)**: A full-stack property listing platform connecting travelers with trusted hosts across India. Built with Node.js, Express, MongoDB, and Bootstrap, it features secure authentication, geolocation, and image uploads via Cloudinary.
 - **[TripSage](https://github.com/SHAIK-RAIYAN/TripSage)**: A personalized trip planning platform that suggests itineraries based on destination, budget, dates, and interests. Built with  Node.js, Express, EJS, Tailwind CSS, Socket.IO, Google Gemini and SerpAPI.
-- **[Portfolio Website](https://shaik-raiyan.vercel.app/)**: A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript for a responsive and modern design.
+- **[Portfolio Website](https://shaikraiyan.me/)**: A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript for a responsive and modern design.
 
 ## 📊 GitHub Stats
 
